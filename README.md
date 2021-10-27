@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snailtail
 - 👀 I’m interested in microcomputers and software development.
-- 🌱 I’m currently learning more about C#. Trying to wake up som skills from the past...
+- 🌱 I mainly use .NET / C#.
 
 
 <!---
