@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snailtail
-- 👀 I’m interested in microcomputers and software development.
-- 🌱 I mainly use .NET / C#.
+- 👀 I’m interested in problem solving, microcomputers and software development.
+- 🌱 I usually use .NET / C# but I play around with PowerShell and Python as well.
 
 
 <!---
