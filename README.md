@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snailtail
-- 👀 I try to solve problems using technology, without creating even more problems. Which can be quite problematic.
+- 👀 I try to solve problems using technology, without creating even more problems. Which can be problematic at times, but oh so much fun!
 - 🌱 I usually use .NET / C# but I play around with PowerShell and Python as well.
 - :christmas_tree: When december comes 'round I try to solve as many of the [Advent of Code puzzles](https://adventofcode.com) as I can.
 - :laughing: Comics are also fun! [xkcd](https://xkcd.com) is always a classic, and [Comic Agilé](https://www.comicagile.net) will have you laughing your way to a better understanding of agile ways.
